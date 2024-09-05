@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9b68fc3-6ba0-4a3f-9d75-9e8a24ba4cb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/air_quality.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/templates/air_quality.html" beforeDir="false" afterPath="$PROJECT_DIR$/vnproject/templates/air_quality.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/vnproject/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vnproject/vnproject/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kggDWI1qMR9tDU435NKQuNWeLv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kimhy\PycharmProjects\VnAtm" />
+      <recent name="C:\Users\kimhy\PycharmProjects\VnAtm\vnproject" />
+      <recent name="C:\Users\kimhy\PycharmProjects\VnAtm\vnproject\config" />
+      <recent name="C:\Users\kimhy\PycharmProjects\VnAtm\templates" />
+      <recent name="C:\Users\kimhy\PycharmProjects\VnAtm\config" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b68fc3-6ba0-4a3f-9d75-9e8a24ba4cb1" name="Changes" comment="" />
+      <created>1723710514655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723710514655</updated>
+      <workItem from="1723710518256" duration="4761000" />
+      <workItem from="1723772325940" duration="17738000" />
+      <workItem from="1724032059592" duration="5990000" />
+      <workItem from="1724038118814" duration="4416000" />
+      <workItem from="1724050902726" duration="799000" />
+      <workItem from="1724051911844" duration="103000" />
+      <workItem from="1724118801497" duration="3778000" />
+      <workItem from="1724136451617" duration="3375000" />
+      <workItem from="1724206017424" duration="631000" />
+      <workItem from="1724290684262" duration="7477000" />
+      <workItem from="1724344093890" duration="4026000" />
+      <workItem from="1725171284158" duration="8000" />
+      <workItem from="1725373738450" duration="4360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
